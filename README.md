@@ -11,4 +11,4 @@
 8. Make sure all links work
 9. https://idp.bootcampspot.com/ui/?requestId=7655d7f3-1bdb-4fac-bd17-b0433cf4007f
 10.https://roodjmika.github.io/Hello-World-Project-1/  
-![Screenshot (11)](https://user-images.githubusercontent.com/125827500/230535635-5a2e81a7-d67e-4d57-8f26-a2d837ca1d1d.png)
+
